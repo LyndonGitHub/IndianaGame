@@ -1,10 +1,13 @@
 # Mr Jones' Time Travel
 Summary
 ---------------------------
-The game is developed in python using pygame aiming to showcase collaboration between a graphics designers and mdeveloper. My duties withing the project inviolved programming the entire game with elemtnts such as side scrolling , menu navigation , time projectiles, ranomdise projectilse & hover simulation
+The game is developed in python using pygame aiming to showcase collaboration between a graphics designers and mdeveloper. My duties withing the project inviolved programming the entire game with elemtnts such as **side scrolling , menu navigation , time projectiles, ranomdise projectilse & hover simulation**
 
-Group Members; 2 Indicidauls
+**Group Members**; 2 Indicidauls  
 game made on using [python-pygame][pygame]
+
+
+
 
 If you already have pygame installed
 ---------------------------
