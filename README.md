@@ -6,6 +6,8 @@ The game is developed in python using pygame aiming to showcase collaboration be
 **Group Members**; 2 Indicidauls  
 game made on using [python-pygame][pygame]
 
+:-------------------------:|:-------------------------:
+![]()  |  ![]()
 
 
 
